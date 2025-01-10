@@ -8,6 +8,8 @@ Homework 1 repository
 
 ![Platform: Windows](https://img.shields.io/badge/Platform-Linux-yellow.svg)
 
+[![DOI](https://zenodo.org/badge/915028921.svg)](https://doi.org/10.5281/zenodo.14630305)
+
 Test
 
 [![.github/workflows/pytest_status.yml](https://github.com/CSC-510-Group-5/HW1/actions/workflows/pytest_status.yml/badge.svg)](https://github.com/CSC-510-Group-5/HW1/actions/workflows/pytest_status.yml)
