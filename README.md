@@ -7,3 +7,6 @@ Homework 1 repository
 ![Language: Python](https://img.shields.io/badge/Language-Python-blue.svg)
 
 ![Platform: Windows](https://img.shields.io/badge/Platform-Linux-yellow.svg)
+
+
+[![.github/workflows/main.yml](https://github.com/CSC-510-Group-5/HW1/actions/workflows/main.yml/badge.svg)](https://github.com/CSC-510-Group-5/HW1/actions/workflows/main.yml)
