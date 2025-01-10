@@ -9,4 +9,4 @@ Homework 1 repository
 ![Platform: Windows](https://img.shields.io/badge/Platform-Linux-yellow.svg)
 
 
-[![.github/workflows/main.yml](https://github.com/CSC-510-Group-5/HW1/actions/workflows/main.yml/badge.svg)](https://github.com/CSC-510-Group-5/HW1/actions/workflows/main.yml)
+[![.github/workflows/pytest_status.yml](https://github.com/CSC-510-Group-5/HW1/actions/workflows/pytest_status.yml/badge.svg)](https://github.com/CSC-510-Group-5/HW1/actions/workflows/pytest_status.yml)
