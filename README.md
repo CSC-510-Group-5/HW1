@@ -1,2 +1,2 @@
 # HW1
-Homework 1 repositoryt
+Homework 1 repository
